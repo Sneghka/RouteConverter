@@ -1,0 +1,8 @@
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\bin\Debug\MasterRouteConverter.exe.config
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\bin\Debug\MasterRouteConverter.exe
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\bin\Debug\MasterRouteConverter.pdb
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\obj\Debug\Interop.Office.dll
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\obj\Debug\Interop.VBIDE.dll
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\obj\Debug\MasterRouteConverter.csproj.ResolveComReference.cache
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\obj\Debug\MasterRouteConverter.exe
+D:\Sneghka\IT\Edsson\MasterRouteConverter\MasterRouteConverter\obj\Debug\MasterRouteConverter.pdb
