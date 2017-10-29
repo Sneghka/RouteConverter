@@ -23,7 +23,7 @@ namespace MasterRouteConverter
         public string Description { get; set; }
         [XmlElement(ElementName = "ReferenceNumber", Order = 7)]
         public string ReferenceNumber { get; set; }
-        [XmlElement(ElementName = "MasterRouteStop", Order = 8)]
+        [XmlArray(ElementName = "MasterRouteStops", Order = 8)]
         public List<MasterRouteStop> MasterRouteStops = new List<MasterRouteStop>();
     }
 }
